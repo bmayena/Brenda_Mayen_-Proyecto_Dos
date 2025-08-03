@@ -2,7 +2,7 @@
 # Python Fundamentals: Module 2.
 Control Structures and Collections
 
-In this project, the use and logical structures of Python control structures will be put into practice.
+In this project, the use of control and logical structures on Python will be put into practice.
 
 
 
